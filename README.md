@@ -54,7 +54,8 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NischayaPoddar8&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NischayaPoddar8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="stats card" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NischayaPoddar8&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="top languages" />
 </div>
 
 <br />
