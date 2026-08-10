@@ -54,8 +54,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=NischayaPoddar8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="stats card" />
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=NischayaPoddar8&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NischayaPoddar8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NischayaPoddar8&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="top languages" />
 </div>
 
 <br />
@@ -63,7 +63,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NischayaPoddar8&theme=tokyonight&hide_border=true" alt="streak stats" />
 </div>
-
 ---
 
 <div align="center">
