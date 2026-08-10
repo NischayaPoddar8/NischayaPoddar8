@@ -66,5 +66,5 @@
 ---
 
 <div align="center">
-  <sub>Designed with ❤️ | Thanks for visiting!</sub>
+  <sub>Thanks for visiting!</sub>
 </div>
