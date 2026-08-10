@@ -53,11 +53,9 @@
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=NischayaPoddar8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="stats card" />
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=NischayaPoddar8&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="top languages" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=NischayaPoddar8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="stats card" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=NischayaPoddar8&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="top languages" />
 </div>
 
 <br />
