@@ -54,14 +54,14 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NischayaPoddar8&theme=tokyonight" height="175" alt="stats card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NischayaPoddar8&theme=tokyonight" height="175" alt="languages card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NischayaPoddar8&theme=tokyonight&cache_seconds=1800" height="175" alt="stats card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NischayaPoddar8&theme=tokyonight&cache_seconds=1800" height="175" alt="languages card" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NischayaPoddar8&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NischayaPoddar8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="streak stats" />
 </div>
 ---
 
