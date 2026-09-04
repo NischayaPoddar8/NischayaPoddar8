@@ -97,3 +97,23 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+### 🚀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NischayaPoddar8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nischaya's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NischayaPoddar8&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NischayaPoddar8&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+</p>
