@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NischayaPoddar8&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/NischayaPoddar8?label=Followers&style=flat&color=181717" alt="Followers" />
 </p>
 
 * 💻 Passionate about **Backend Engineering**, **Distributed Systems**, and **Machine Learning**.
