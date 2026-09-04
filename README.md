@@ -1,70 +1,99 @@
-<div align="center">
+<h3 align="center">Computer Engineering Undergrad | Backend & Systems Enthusiast</h3>
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=200&section=header&text=Hi%20there,%20I'm%20Nischaya%20Poddar&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=NischayaPoddar8&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/NischayaPoddar8?label=Followers&style=flat&color=181717" alt="Followers" />
+</p>
 
-  <h3>💻 Computer Engineering Student | ⚙️ Backend & ML Enthusiast | ⚡ Competitive Programmer</h3>
+---
 
-  <!-- Social Badges -->
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+* 💻 Passionate about **Backend Engineering**, **Distributed Systems**, and **Machine Learning**.
+* 🛠️ Currently building and exploring microservices architectures with **Java** & **Spring Boot**.
+* 🧠 Actively practicing DSA and algorithmic problem solving.
+* 📫 Reach out: [LinkedIn](https://www.linkedin.com/in/nischayapoddar8/) • [Email](mailto:nichayapoddar8@gmail.com)
+
+---
+
+### 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nischayapoddar8/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:nischayapoddar8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;
+  <a href="mailto:nichayapoddar8@gmail.com">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
   </a>
-
-</div>
-
----
-
-### 🚀 About Me
-
-- 🎓 Studying **Computer Engineering**
-- ⚙️ Currently building **Backend Services with Java & Spring Boot**
-- 🧠 Exploring **Machine Learning & Systems Design** concepts
-- 🏆 Active in **hackathons** & **competitive programming**
-- 🎯 Goal: Building scalable backend architectures & intelligent ML systems
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Arsenal
 
-**Languages:**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+#### **Programming Languages**
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+</p>
 
-**Backend & Frameworks:**
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+#### **Frameworks & Core Backend**
+<p align="left">
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/>
+  </a>
+</p>
 
-**Fields of Focus:**
-![Backend Development](https://img.shields.io/badge/Backend_Engineering-000000?style=for-the-badge&logo=server&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-4682B4?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+#### **Databases & Persistence**
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+</p>
 
-**Developer Tools:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NischayaPoddar8&theme=tokyonight&cache_seconds=1800" height="175" alt="stats card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NischayaPoddar8&theme=tokyonight&cache_seconds=1800" height="175" alt="languages card" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NischayaPoddar8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="streak stats" />
-</div>
----
-
-<div align="center">
-  <sub>Thanks for visiting!</sub>
-</div>
+#### **Developer Tools & Environments**
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="40" height="40"/>
+  </a>
+</p>
