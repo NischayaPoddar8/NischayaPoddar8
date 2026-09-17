@@ -2,10 +2,6 @@
 
 <h3 align="center">Computer Engineering Undergrad | Backend & Systems Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NischayaPoddar8&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 * 💻 Passionate about **Backend Engineering**, **Distributed Systems**, and **Machine Learning**.
 * 🛠️ Currently building and exploring microservices architectures with **Java** & **Spring Boot**.
 * 🧠 Actively practicing DSA and algorithmic problem solving.
